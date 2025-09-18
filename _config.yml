@@ -7,7 +7,7 @@ first_name: Douglas
 middle_name: 
 last_name: Yu
 contact_note: >
-  Email: dongguang.yu@erau.edu.
+  Email dongguang.yu@erau.edu.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Douglas Yu Website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -29,8 +29,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: catppuccin_latte # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: one_dark_pro # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
