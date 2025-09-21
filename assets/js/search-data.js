@@ -72,7 +72,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-漫谈航空器事故调查",
+        
+          title: '漫谈航空器事故调查 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "我希望通过一篇文章让更多人明白航空事故调查是一个科学化、组织化和系统化的过程，破除笼罩在航空事故调查上的各种流言，推动对航空安全的科学认知。全文中绝大部分是以美国运输安全委员会（NTSB）对航空事故调查的规定和手册为基础的，很多地方也参考了国际民航组织（ICAO）的文件。",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2025/08/12/accident-investigation/", "_blank");
+          
+        },
+      },{id: "post-浅析faa的mosaic法案及其影响",
+        
+          title: '浅析FAA的MOSAIC法案及其影响 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "本文会讲解此次MOSAIC法案的改动内容，并尝试分析其对航空业各个参与者的影响，同时还有对国内通航产业的冲击。",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2025/08/12/mosaic/", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -81,6 +103,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-重新思考eaa精神-众乐飞行的时代势不可挡",
+        
+          title: '重新思考EAA精神：众乐飞行的时代势不可挡 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "作为深度参与到美国航空协会内部的人，在这几年里我深刻感受到了美国的航空文化，以及这些文化对普通美国人的影响。这么多年来，我对EAA的认知从不熟悉甚至看不起，到顶礼膜拜，再到亲身参与其中加深理解；虽然仍然无法真的说对EAA和美国的航空文化有多深的理解，但我依然愿意将自己对EAA的理解分享出来",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2025/03/03/re-think-eaa/", "_blank");
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -94,15 +127,26 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+      },{id: "post-詹姆斯-霍纳-电影配乐大师的飞行之歌",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '詹姆斯・霍纳：电影配乐大师的飞行之歌 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "这篇文章要介绍一位人物，他不仅是一位飞行员，而且还是特技飞行员，不过他还是一位好莱坞最知名的电影配乐大师",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+            window.open("https://solarflyer.aero/2024/08/14/james-horner/", "_blank");
+          
+        },
+      },{id: "post-资深飞友必读的-四书五经",
+        
+          title: '资深飞友必读的“四书五经” <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "前段时间有位朋友希望我可以推荐一些书，之前还有朋友私信我希望可以推荐书以便可以更加精进自身对航空的理解。现在我把这些年推荐给别人看过的书都列出来，希望可以帮到更多的人。这些书都不是专业性极强的教科书，或者学术资料，我尽力避开专业性太强或者难于理解的书目，尽量找写给普通飞行员或者爱好者的，甚至还有科普性质的书籍等等。同时给出了获取中文版或翻译版的可能方式，也会给出一些中文书籍的平替选项",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2024/08/08/aviation-books/", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -215,6 +259,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chartjs/";
           
         },
+      },{id: "post-探访基蒂霍克-纪念莱特兄弟首飞两甲子",
+        
+          title: '探访基蒂霍克：纪念莱特兄弟首飞两甲子 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "今天是2023年的12月17日，120年前的今天莱特兄弟在美国北卡罗莱纳州的小镇基蒂霍克（Kittyhawk，又译为“小鹰城”）成功试飞“飞行者1号”，开启了人类的航空时代！为了迎接这个纪念日，我特意前往莱特兄弟当年首飞之地，站在那个历史的地点探寻120年前莱特兄弟的壮举，也是为了完成幼年定下的梦想",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2023/12/17/wright-brother-120/", "_blank");
+          
+        },
       },{id: "post-a-post-with-tikzjax",
         
           title: "a post with TikZJax",
@@ -246,6 +301,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/jupyter-notebook/";
+          
+        },
+      },{id: "post-e-6b计算尺实用指南-中译本发布-免费",
+        
+          title: '《E-6B计算尺实用指南》中译本发布[免费] <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "《E-6B计算尺实用指南》中译本发布，提供免费下载。",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2023/06/12/e6b-practical-manual-zh/", "_blank");
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -314,6 +380,39 @@ ninja.data = [{
             window.location.href = "/blog/2023/table-of-contents/";
           
         },
+      },{id: "post-eaa七十周年-译文",
+        
+          title: 'EAA七十周年（译文） <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "今年恰逢美国实验类航空器协会成立70周年，笔者作为EAA会员觉得有必要将这篇文章翻译 出来，以便让更多人了解EAA这70年的发展史。",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2023/02/28/eaa-70/", "_blank");
+          
+        },
+      },{id: "post-道格拉斯的-空中卧铺-译文",
+        
+          title: '道格拉斯的“空中卧铺”（译文） <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "舒适旅行的提议如何催生了一款伟大的飞机设计",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2023/01/18/douglas-dst/", "_blank");
+          
+        },
+      },{id: "post-用模拟飞行纪念-驼峰空运-八十周年",
+        
+          title: '用模拟飞行纪念“驼峰空运”八十周年 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "刚刚过去的2022年是著名的驼峰空运开辟八十周年，为了纪念这段特殊的历史，纪念在驼峰空运中牺牲的人们，我打算用一种特殊的方式来纪念。",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://solarflyer.aero/2023/01/01/sim-the-hump/", "_blank");
+          
+        },
       },{id: "post-a-post-with-giscus-comments",
         
           title: "a post with giscus comments",
@@ -323,17 +422,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022/giscus-comments/";
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
       },{id: "post-a-post-with-redirect",
