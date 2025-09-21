@@ -261,7 +261,7 @@ display_tags: [
     "Airshows",
     "Flight training",
     "Review",
-    "Thoughts"
+    "Thoughts",
   ] # these tags will be displayed on the front page of your blog
 display_categories: ["news", "others"] # these categories will be displayed on the front page of your blog
 
