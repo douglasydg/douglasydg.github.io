@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://douglasydg.github.io/sitemap.xml
+Sitemap: https://douglasyu.net/sitemap.xml
