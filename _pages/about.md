@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assitance Reseacher at <a href='https://daytonabeach.erau.edu/about/labs/cognitive-engineering-research'>Cognitive Engineering Research in Transportation Systems (CERTS) Lab</a>.
+subtitle: Reseacher Assitant at <a href='https://daytonabeach.erau.edu/about/labs/cognitive-engineering-research'>Cognitive Engineering Research in Transportation Systems (CERTS) Lab</a>.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>yud4 (at) erau.edu</p>
+    <p>yud4 @ erau.edu</p>
     <p>Embry-Riddle Aeronautical University</p>
     <p>Daytona Beach, Florida</p>
 
@@ -22,13 +22,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Assistant at the [Cognitive Engineering Research in Transportation Systems (CERTS) Lab](https://daytonabeach.erau.edu/about/labs/cognitive-engineering-research) at Embry-Riddle Aeronautical University, Daytona Beach, Florida. This lab, led by Dr. Andrew Dattel, focuses on research in human factors, human performance, training, attentional allocation, fatigue, situation awareness, adaptive automation, virtual reality (VR), and intentional insensitivity–related topics in transportation systems, especially in the aviation industry.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My ultimate goal is to improve aviation safety by studying human factors, aircraft accidents and safety investigations, situation awareness, aviation psychology, performance, and flight training.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research Interests:**
+
+- Human Factors in Aviation: situation awareness, Human-Computer Interaction (HCI), fatigue, human performance, flight training.
+- Safety Investigations: Safety Management Systems (SMS), investigation techniques, ECFA (Events & Causal Factors), FTA (Fault Tree), FMEA/FMECA (Failure Modes and Effects Analysis).
+- Aviation Psychology: cognitive functions, and work psychology.
+- Aviation Training: student-centered training, Scenario-Based Training (SBT), flight simulators for flight training, and VR for aviation training.
