@@ -159,16 +159,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-my-thesis-for-my-master-39-s-degree-is-accepted-and-published",
+          title: 'My thesis for my master&amp;#39;s degree is accepted and published',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-will-work-as-a-reseach-assistant-at-the-certs-lab-in-embry-riddle-aeronautical-university",
+          title: 'I will work as a reseach assistant at the CERTS Lab in Embry-Riddle...',
+          description: "",
+          section: "News",},{id: "news-my-paper-was-accepted-by-the-69th-human-factors-and-ergonomics-society-hfes-international-annual-meeting-chicago-il-see-here",
+          title: 'My paper was accepted by The 69th Human Factors and Ergonomics Society (HFES)...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
