@@ -37,3 +37,5 @@ My ultimate goal is to improve aviation safety by studying human factors, aircra
 - _Safety Investigations_: Safety Management Systems (SMS), investigation techniques, ECFA (Events & Causal Factors), FTA (Fault Tree), FMEA/FMECA (Failure Modes and Effects Analysis).
 - _Aviation Training_: student-centered training, Scenario-Based Training (SBT), flight simulators for flight training, and VR for aviation training.
 - _Aviation Psychology_: cognitive functions, attachment styles, persona and personality types, and work psychology.
+
+---
