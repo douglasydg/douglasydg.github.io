@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Reseacher Assitant at <a href='https://daytonabeach.erau.edu/about/labs/cognitive-engineering-research'>Cognitive Engineering Research in Transportation Systems (CERTS) Lab</a>.
+subtitle: Reseach Assitant at <a href='https://daytonabeach.erau.edu/about/labs/cognitive-engineering-research'>Cognitive Engineering Research in Transportation Systems (CERTS) Lab</a>.
 
 profile:
   align: right
